@@ -5,12 +5,8 @@
  *
  * Return: Always 0 (Success)
  */
-
-int main()
+int _putchar(char *c)
 {
-	char *me = "_putchar";
-	_putchar(*me);
-	_putchar('\n');
-
-	return (0);
+	char *c = "_putchar"
+	return (write(1, &c, 8));
 }
