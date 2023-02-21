@@ -1,7 +1,7 @@
 #ifndef main
 #define main
 
-int _putchar(char *);
+char _putchar(char c);
 void print_alphabet(void);
 
 #endif
