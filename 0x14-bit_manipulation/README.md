@@ -1,9 +1,9 @@
 ## Bit Manipulation
 
-This project is designed to help **ALX Software Engineering** students to better understand BIT MANIPULATIO
+This project is designed to help **ALX Software Engineering** students to better understand BIT MANIPULATION in **C Language**.
 
 ## Files
-All of the following files are scripts and programs written in C:
+The following files make up the project
 
 | Filename | Description |
 | -------- | ----------- |
