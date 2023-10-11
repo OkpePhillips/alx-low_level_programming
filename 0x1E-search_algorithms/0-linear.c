@@ -20,13 +20,10 @@ int linear_search(int *array, size_t size, int value)
 
 	for (i = 0; i < size; i++)
 	{
+		printf("Value checked array[%lu] = [%d]\n", i, array[i]);
 		if (array[i] == value)
 		{
 			return (i);
-		}
-		else
-		{
-			printf("Value checked array[%lu] = %d\n", (unsigned long)i, array[i]);
 		}
 	}
 	return (-1);
